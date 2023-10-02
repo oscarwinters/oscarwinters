@@ -14,6 +14,5 @@ an <a href="https://linkedin.com/in/oscar-winters-46b514293">IT Professional</a>
 
 <h2>🤳Connect with me:</h2>
 
-
-
 [linkedin]: https://linkedin.com/in/oscar-winters-46b514293
+
